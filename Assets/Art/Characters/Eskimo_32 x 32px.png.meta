@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 7bf30c8ea624d4648ac6530756692be3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3192980883413333752
+    second: Eskimo_32 x 32px_0
+  - first:
+      213: 7988214539403026620
+    second: Eskimo_32 x 32px_1
+  - first:
+      213: -3900516847455296875
+    second: Eskimo_32 x 32px_2
+  - first:
+      213: 3758572986545560253
+    second: Eskimo_32 x 32px_3
+  - first:
+      213: -934853370134250311
+    second: Eskimo_32 x 32px_4
+  - first:
+      213: -632918540260131130
+    second: Eskimo_32 x 32px_5
+  - first:
+      213: -6652715976026098292
+    second: Eskimo_32 x 32px_6
+  - first:
+      213: -6768485716566762550
+    second: Eskimo_32 x 32px_7
+  - first:
+      213: -4003761135706422636
+    second: Eskimo_32 x 32px_8
+  - first:
+      213: 2818398842081653264
+    second: Eskimo_32 x 32px_9
+  - first:
+      213: 3626644565979532428
+    second: Eskimo_32 x 32px_10
+  - first:
+      213: -6362343498440648156
+    second: Eskimo_32 x 32px_11
+  - first:
+      213: -7862547278969263002
+    second: Eskimo_32 x 32px_12
+  - first:
+      213: -624842860271543129
+    second: Eskimo_32 x 32px_13
+  - first:
+      213: 7862230900258893716
+    second: Eskimo_32 x 32px_14
+  - first:
+      213: 7471531403034227567
+    second: Eskimo_32 x 32px_15
+  - first:
+      213: 3756635215066329377
+    second: Eskimo_32 x 32px_16
+  - first:
+      213: 182125348456661823
+    second: Eskimo_32 x 32px_17
+  - first:
+      213: 7220698676769866792
+    second: Eskimo_32 x 32px_18
+  - first:
+      213: -2203038833348426831
+    second: Eskimo_32 x 32px_19
+  - first:
+      213: 3381967589097005656
+    second: Eskimo_32 x 32px_20
+  - first:
+      213: -2407914868576939043
+    second: Eskimo_32 x 32px_21
+  - first:
+      213: -2534576878222817142
+    second: Eskimo_32 x 32px_22
+  - first:
+      213: 7419385248966330717
+    second: Eskimo_32 x 32px_23
+  - first:
+      213: -2837120320382093480
+    second: Eskimo_32 x 32px_24
+  - first:
+      213: -9118390399035437074
+    second: Eskimo_32 x 32px_25
+  - first:
+      213: -6460941261458429341
+    second: Eskimo_32 x 32px_26
+  - first:
+      213: 4339449169612665372
+    second: Eskimo_32 x 32px_27
+  - first:
+      213: 5478052645644863710
+    second: Eskimo_32 x 32px_28
+  - first:
+      213: -653693822951104866
+    second: Eskimo_32 x 32px_29
+  - first:
+      213: -34095115304514056
+    second: Eskimo_32 x 32px_30
+  - first:
+      213: 7260657637988180056
+    second: Eskimo_32 x 32px_31
+  - first:
+      213: -6516991878748851581
+    second: Eskimo_32 x 32px_32
+  - first:
+      213: 1218366858731863248
+    second: Eskimo_32 x 32px_33
+  - first:
+      213: 8534550682393964669
+    second: Eskimo_32 x 32px_34
+  - first:
+      213: -7534788605381251826
+    second: Eskimo_32 x 32px_35
+  - first:
+      213: -1881951274016005682
+    second: Eskimo_32 x 32px_36
+  - first:
+      213: 4325531897534528214
+    second: Eskimo_32 x 32px_37
+  - first:
+      213: -7466717763264510592
+    second: Eskimo_32 x 32px_38
+  - first:
+      213: -7494037145876450464
+    second: Eskimo_32 x 32px_39
+  - first:
+      213: 3465967488793972403
+    second: Eskimo_32 x 32px_40
+  - first:
+      213: 1328928978961755431
+    second: Eskimo_32 x 32px_41
+  - first:
+      213: -2893003783778695901
+    second: Eskimo_32 x 32px_42
+  - first:
+      213: -3856992827588038805
+    second: Eskimo_32 x 32px_43
+  - first:
+      213: -1132931549407960308
+    second: Eskimo_32 x 32px_63
+  - first:
+      213: 7695674273170371706
+    second: Eskimo_32 x 32px_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f672423fbf4c20800000000000000
+      internalID: 3192980883413333752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb06abadcc6dbde60800000000000000
+      internalID: 7988214539403026620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922003d7949ed9c0800000000000000
+      internalID: -3900516847455296875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5d6da732292430800000000000000
+      internalID: 3758572986545560253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc321c10dbb603f0800000000000000
+      internalID: -934853370134250311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3904e0fb6737f0800000000000000
+      internalID: -632918540260131130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f561411ecca3a0800000000000000
+      internalID: -6652715976026098292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9bbc0a128112a0800000000000000
+      internalID: -6768485716566762550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 109
+        width: 17
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49244bcb578cf68c0800000000000000
+      internalID: -4003761135706422636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01236a970d6fc1720800000000000000
+      internalID: 2818398842081653264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8fc9940e645230800000000000000
+      internalID: 3626644565979532428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42add6c1c4a64b7a0800000000000000
+      internalID: -6362343498440648156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca25748ee92e290800000000000000
+      internalID: -7862547278969263002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5319aabc1457f0800000000000000
+      internalID: -624842860271543129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe70019514c1d60800000000000000
+      internalID: 7862230900258893716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 96
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f706a93630b760800000000000000
+      internalID: 7471531403034227567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12170c813df322430800000000000000
+      internalID: 3756635215066329377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338a5b1a0a078200800000000000000
+      internalID: 182125348456661823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 97
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824400b8033153460800000000000000
+      internalID: 7220698676769866792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 97
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b340ef6adb3d61e0800000000000000
+      internalID: -2203038833348426831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 97
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e2069a992fee20800000000000000
+      internalID: 3381967589097005656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd317194f2e559ed0800000000000000
+      internalID: -2407914868576939043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884c9d02cf53dcd0800000000000000
+      internalID: -2534576878222817142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5949680393f6f660800000000000000
+      internalID: 7419385248966330717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857359ea91680a8d0800000000000000
+      internalID: -2837120320382093480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef092e4e38f47180800000000000000
+      internalID: -9118390399035437074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a2b1c77202656a0800000000000000
+      internalID: -6460941261458429341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 64
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1270a34702d83c30800000000000000
+      internalID: 4339449169612665372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80d847bd3f50c40800000000000000
+      internalID: 5478052645644863710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 64
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed1237eec9de6f0800000000000000
+      internalID: -653693822951104866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc2bb5caed68ff0800000000000000
+      internalID: -34095115304514056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850230437a903c460800000000000000
+      internalID: 7260657637988180056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b11f2a6efe85a0800000000000000
+      internalID: -6516991878748851581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc32dce33288e010800000000000000
+      internalID: 1218366858731863248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f8ada0a0d07670800000000000000
+      internalID: 8534550682393964669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de6963fad0f6790800000000000000
+      internalID: -7534788605381251826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1aeab8947f1e5e0800000000000000
+      internalID: -1881951274016005682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daba29d750670c30800000000000000
+      internalID: 4325531897534528214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085058231c3e06890800000000000000
+      internalID: -7466717763264510592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b372cbe4dff790800000000000000
+      internalID: -7494037145876450464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0e9c4117991030800000000000000
+      internalID: 3465967488793972403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72decba8ddd417210800000000000000
+      internalID: 1328928978961755431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325820ee26cf9d7d0800000000000000
+      internalID: -2893003783778695901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa2626575397ac0800000000000000
+      internalID: -3856992827588038805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 113
+        width: 18
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5174597, y: 0.50262713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a4b222c40740f0800000000000000
+      internalID: -1132931549407960308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eskimo_32 x 32px_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 109
+        width: 1
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74be6f5af68cca60800000000000000
+      internalID: 7695674273170371706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
